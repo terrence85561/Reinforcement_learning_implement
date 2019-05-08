@@ -1,0 +1,1 @@
+In part3, run part3_exp_hw6.py first and then plot.py, use python3

@@ -1,0 +1,1 @@
+run python3 dynaQ_exp.py then run python3 plot.py
