@@ -1,4 +1,4 @@
-# These are some of my implementations in Reinforcement learning algorithms, was written when I taking this course.
+# These are some of my implementations in Reinforcement learning algorithms, was written when I was taking this course.
 
 # Requirement:
     python3
